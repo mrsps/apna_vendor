@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490189706887",
+    "project_id": "apnavendor-21d75",
+    "storage_bucket": "apnavendor-21d75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490189706887:android:f702fe9cdfa53d19d98a22",
+        "android_client_info": {
+          "package_name": "com.udaan.apnavendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490189706887-nd3mbj19oo5evgsgcqs4jqa5rpck33o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB952lxw6n-aIClRZt9V3CSTwwKZ2DZouk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490189706887-nd3mbj19oo5evgsgcqs4jqa5rpck33o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
